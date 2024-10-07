@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Solution4Test {
+public class L2022211844_X_Test {
 
     @Test
     public void testMaximumGap() {
